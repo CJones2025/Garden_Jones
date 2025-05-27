@@ -1,0 +1,17 @@
+body {
+  background-color: honeydew;
+}
+
+.garden {
+  border: 2px solid maroon;
+  padding: 2px;
+  gap: 2px;
+}
+
+.garden p {
+  margin: 0;
+  border-radius: 5px;
+  padding: 0.25rem;
+  background-color: wheat;
+  text-align: center;
+}
